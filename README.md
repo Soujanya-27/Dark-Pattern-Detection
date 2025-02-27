@@ -1,48 +1,14 @@
-# Dark Patterns Project
+# Dark Pattern Detector - Browser Extension
 
-## Overview
+Dark patterns are deceptive UI/UX design choices used by websites to manipulate users into making unintended decisions, such as subscribing to services, sharing personal information, or making purchases they didn't intend to.
 
-Welcome to the Dark Patterns Project! This project aims to identify, and analyze dark patterns on e-commerce websites. Dark patterns are deceptive design practices that manipulate users into taking actions they may not have intended. The goal of this project is to detect these patterns and promote ethical design practices.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
- -->Clone the repository
- -->Browser
- -->Usage
-  
-## Introduction
-
-Dark patterns are unethical design choices that trick users into taking actions they wouldn't normally take. This project seeks to catalog and analyze these patterns to create awareness among designers, developers, and users.
-
+Dark Pattern Detector is a browser extension that automatically scans e-commerce websites and detects instances where personal information is collected without adequate disclosure or consent. Using AI/ML, this tool helps users identify and avoid misleading tactics, promoting transparency and ethical web practices.
 
 ## Features
 
- - **Real-Time Detection:** Highlights dark patterns on various websites in real-time.
- - **Count Display:** Displays number of dark patterns detected on that webpage.
- - **Dark Patterns Dataset:** Large dataset dark patterns.
- - **Browser Compatibility:** Extension is compatible with all major browsers.
+🚨 Real-time Detection – Scans websites and flags dark patterns as you browse.
+🧠 AI-Powered Analysis – Uses machine learning to recognize deceptive UI elements.
+🔍 Detailed Insights – Provides explanations of detected dark patterns.
+🔒 Privacy-Friendly – Does not store or share user data.
 
-## Getting Started
-
-To get started with the Dark Patterns Project, follow these steps:
-
-1. **Clone the repository:**
-**git clone**  https://github.com/Saniyagautam/Hackerspace-Dark-Pattern-Detector
-
-2. **Browser**
- Open the Extension Management page by typing `chrome://extensions` in URL bar 
-OR
-Click on the Extensions Icon and select **Manage Extensions** at the bottom.
-**Turn on Developer Mode** by clicking the toggle switch next to Developer mode.
-Click on **Load unpacked** button and select the folder/directory.
-
-**NOTE** You can pin the extension also on your browser
-
-3.**Usage**
-To use the extension, simply click on its icon in the extension's panel and then press the click here button.
-Depending upon the website, the dark patterns would be highlighted and the count of dark patterns would be displayed.
-
-
+This project aims to empower users with knowledge and tools to navigate the web safely, ensuring ethical digital experiences. Contributions and feedback are welcome!
