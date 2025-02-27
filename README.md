@@ -7,8 +7,11 @@ Dark Pattern Detector is a browser extension that automatically scans e-commerce
 ## Features
 
 🚨 Real-time Detection – Scans websites and flags dark patterns as you browse.
+
 🧠 AI-Powered Analysis – Uses machine learning to recognize deceptive UI elements.
+
 🔍 Detailed Insights – Provides explanations of detected dark patterns.
+
 🔒 Privacy-Friendly – Does not store or share user data.
 
 This project aims to empower users with knowledge and tools to navigate the web safely, ensuring ethical digital experiences. Contributions and feedback are welcome!
